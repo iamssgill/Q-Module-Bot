@@ -1,0 +1,7 @@
+flask
+openai
+pandas
+scipy
+tiktoken
+numpy
+gunicorn==20.1.0
