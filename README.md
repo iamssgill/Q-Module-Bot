@@ -31,8 +31,6 @@ gunicorn app:app
 
 - This app is not set up to run executable files due to Heroku's limitations. Refer to [Heroku documentation](https://devcenter.heroku.com/articles/dynos#ephemeral-filesystem) for more information.
 
-- There is a direct link to Heroku here, in the report and in the supporting materials: https://vast-journey-85249-5fa42e95d1f8.herokuapp.com/
-
 
 
 
