@@ -31,6 +31,19 @@ gunicorn app:app
 
 - This app is not set up to run executable files due to Heroku's limitations. Refer to [Heroku documentation](https://devcenter.heroku.com/articles/dynos#ephemeral-filesystem) for more information.
 
+## Cite this work
+
+Our work is published in IEEE Transactions on Education. Cite using the following bibtex entry.
+
+@article{QModuleBot,
+  author    = {Mia Allen and Usman Naeem and Sukhpal Singh Gill},
+  title     = {Q-Module-Bot: A Generative AI-Based Question and Answer Bot for Module Teaching Support},
+  journal   = {IEEE Transactions on Education},
+  year      = {2024},
+  publisher = {IEEE},
+  doi       = {10.1109/TE.2024.3435427},
+  url       = {http://dx.doi.org/10.1109/TE.2024.3435427}
+}
 
 
 
