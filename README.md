@@ -45,5 +45,8 @@ Our work is published in IEEE Transactions on Education. Cite using the followin
   url       = {http://dx.doi.org/10.1109/TE.2024.3435427}
 }
 
+## License
+
+This project is licensed under the BSD 3-Clause License - see the [LICENSE file](https://github.com/iamssgill/Q-Module-Bot?tab=BSD-3-Clause-1-ov-file#readme) for details.
 
 
