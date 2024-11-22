@@ -42,7 +42,7 @@ Our work is published in IEEE Transactions on Education. Cite using the followin
   year      = {2024},
   publisher = {IEEE},
   doi       = {10.1109/TE.2024.3435427},
-  url       = {http://dx.doi.org/10.1109/TE.2024.3435427}
+  url       = {[http://dx.doi.org/10.1109/TE.2024.3435427](https://doi.org/10.1109/TE.2024.3435427)}
 }
 
 ## License
